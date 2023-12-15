@@ -1,0 +1,14 @@
+C:\Users\rafael.silva\source\repos\SendEmail\bin\Debug\net6.0\SendEmail.exe
+C:\Users\rafael.silva\source\repos\SendEmail\bin\Debug\net6.0\SendEmail.deps.json
+C:\Users\rafael.silva\source\repos\SendEmail\bin\Debug\net6.0\SendEmail.runtimeconfig.json
+C:\Users\rafael.silva\source\repos\SendEmail\bin\Debug\net6.0\SendEmail.dll
+C:\Users\rafael.silva\source\repos\SendEmail\bin\Debug\net6.0\SendEmail.pdb
+C:\Users\rafael.silva\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.silva\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.AssemblyInfoInputs.cache
+C:\Users\rafael.silva\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.AssemblyInfo.cs
+C:\Users\rafael.silva\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\rafael.silva\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.dll
+C:\Users\rafael.silva\source\repos\SendEmail\obj\Debug\net6.0\refint\SendEmail.dll
+C:\Users\rafael.silva\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.pdb
+C:\Users\rafael.silva\source\repos\SendEmail\obj\Debug\net6.0\SendEmail.genruntimeconfig.cache
+C:\Users\rafael.silva\source\repos\SendEmail\obj\Debug\net6.0\ref\SendEmail.dll
